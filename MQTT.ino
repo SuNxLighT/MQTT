@@ -6,7 +6,7 @@
 #include <DHT.h>
 
 const char* ssid = "SuN";
-const char* password = "180825450";
+const char* password = "1212312121";
 const char* mqtt_server = "192.168.208.200";
 const int ledPin = D6; 
 bool isLedOn = false;
